@@ -1,4 +1,4 @@
-# Initial Setup for Grafana Stack Monitoring (Ubuntu|GCP)
+# Initial Setup for Grafana Monitoring with Prometheus(Ubuntu|GCP)
 
 This script installs and configures Grafana (port 3000) and Prometheus (custom port 5050) as robust `systemd` services.
 
