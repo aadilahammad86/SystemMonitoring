@@ -1,0 +1,1 @@
+& "C:\Program Files\Tailscale\tailscale.exe" up --login-server http://34.18.50.81:8080 --authkey 9eca6e9c9a1eddc16983724e0be7ba0087f4db91662d4814 --force-reauth
